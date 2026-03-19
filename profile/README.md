@@ -1,4 +1,4 @@
-<center>
+<p align="center" width="100%">
 
 ## The Future of Wall Art.
 
@@ -6,4 +6,4 @@
 
 <img height=400px src="./banner.png" />
 
-</center>
+</p>
