@@ -1,3 +1,9 @@
-# Matisse Ink
+<center>
 
-Se *reconnecter* à l'art
+## The Future of Wall Art.
+
+<i>A paper-like canvas turning digital images into artistic displays.</i>
+
+<img height=400px src="./banner.png" />
+
+</center>
