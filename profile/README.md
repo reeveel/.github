@@ -4,6 +4,6 @@
 
 <i>A paper-like canvas turning digital images into artistic displays.</i>
 
-<img height=400px src="./banner.png" />
+<img src="./banner.png" />
 
 </p>
